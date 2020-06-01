@@ -167,5 +167,5 @@ def delete(sno):
         db.session.commit()
     return redirect('/dashboard')
 
-
+app.run(host='127.0.0.1', port=8000)
 app.run(debug=True)
