@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/demo_flask",
+    "prod_uri":"mysql://root:@localhost/demo_flask",
+    "fb_url":"https://www.facebook.com/profile.php?id=100005341967834",
+    "tw_url":"https://instagram/td_dharmik_",
+    "gh_url": "https://github.com/Mr-TD",
+    "blog_name": "Dharmik",
+    "tag_line": "Jarvis is everythig",
+    "gmail-user":"bornfiresblogs@gmail.com",
+    "gmail-password":"BornFiresBlogs@20002000",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 5,
+    "login_image":"login.svg",
+    "admin_user":"dharmik",
+    "admin_password": "jaadugar",
+    "upload_location":"C:\\Users\\user\\PycharmProjects\\flaskdemo\\uploadfile"
+  }
+}
